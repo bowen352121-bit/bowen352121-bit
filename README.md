@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38bdf8&height=120&section=header&text=hyphae&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/bowen352121-bit/bowen352121-bit/main/assets/scroll-bg.svg" width="100%" alt="Scrolling background — same style as bowen_cn main site"/>
+
+<br/><br/>
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I+am+hyphae" alt="Typing SVG" />
@@ -104,5 +104,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0EA5E9&height=80&section=footer&fontSize=14&fontColor=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/bowen352121-bit/bowen352121-bit/main/assets/scroll-bg.svg" width="100%" alt="Scrolling background footer"/>
 </div>
