@@ -9,9 +9,9 @@ OUT = r"d:\我的HTML创建中\bowen352121-bit\assets\scroll-bg.gif"
 
 LINES = [
     {"text": "MONSTER APPRECIATION ZONE ZERO JUSTICE WILL PREVAIL NEVER FORGET YOUR DREAM   ", "y": 28, "size": 22, "color": (161, 161, 170), "speed": 3, "dir": 1},
-    {"text": "BELIEVE IN YOURSELF LIGHT BEATS DARKNESS SHINZO SASAGEYO HERO KNIGHT   ", "y": 68, "size": 18, "color": (100, 116, 139), "speed": 2, "dir": -1},
+    {"text": "BELIEVE IN YOURSELF LIGHT BEATS DARKNESS SHINZO SASAGEYO HERO KNIGHT   ", "y": 68, "size": 18, "color": (100, 116, 139), "speed": 2, "dir": 1},
     {"text": "ZENLESS ZONE ZERO CHUANSHI RISHI MENG   ", "y": 108, "size": 26, "color": (113, 113, 122), "speed": 4, "dir": 1},
-    {"text": "HYPHAE BOWEN KNIGHT DREAM SURMON CODE INSIGHT NEVER GIVE UP   ", "y": 148, "size": 17, "color": (148, 163, 184), "speed": 2, "dir": -1},
+    {"text": "HYPHAE BOWEN KNIGHT DREAM SURMON CODE INSIGHT NEVER GIVE UP   ", "y": 148, "size": 17, "color": (148, 163, 184), "speed": 2, "dir": 1},
     {"text": "KIDS HERO JUSTICE ZZZ EMPTY CALIBER SHINZO SASAGEYO   ", "y": 188, "size": 20, "color": (168, 162, 158), "speed": 3, "dir": 1},
 ]
 
