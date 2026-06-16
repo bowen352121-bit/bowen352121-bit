@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38bdf8&height=120&section=header&text=bowen352121-bit&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38bdf8&height=120&section=header&text=hyphae&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I+am+bowen352121-bit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I+am+hyphae" alt="Typing SVG" />
 </h3>
 
 > 🔭 I'm currently serving as **Deputy Director of the Overseas Publicity Department** at G-bits, responsible for overseas brand promotion and market expansion.
@@ -37,7 +37,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/bowen352121-bit">
-    <img src="https://img.shields.io/badge/GH-bowen352121--bit-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GH-hyphae-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://annihilation.work">
