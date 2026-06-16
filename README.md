@@ -1,36 +1,12 @@
-<table width="100%">
-  <tr>
-    <td bgcolor="#f4f7f6">
-
-<br/>
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<strong><font color="#a1a1aa" size="5">MONSTER APPRECIATION ZONE ZERO JUSTICE WILL PREVAIL NEVER FORGET YOUR DREAM</font></strong>
-</marquee>
-
-<marquee behavior="scroll" direction="right" scrollamount="5">
-<strong><font color="#64748b" size="4">BELIEVE IN YOURSELF LIGHT BEATS DARKNESS SHINZO SASAGEYO HERO KNIGHT</font></strong>
-</marquee>
-
-<marquee behavior="scroll" direction="left" scrollamount="7">
-<strong><font color="#71717a" size="6">ZENLESS ZONE ZERO CHUANSHI RISHI MENG</font></strong>
-</marquee>
-
-<marquee behavior="scroll" direction="right" scrollamount="5">
-<strong><font color="#94a3b8" size="4">HYPHAE BOWEN KNIGHT DREAM SURMON CODE INSIGHT NEVER GIVE UP</font></strong>
-</marquee>
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<strong><font color="#a8a29e" size="5">KIDS HERO JUSTICE ZZZ EMPTY CALIBER SHINZO SASAGEYO</font></strong>
-</marquee>
+<img src="https://raw.githubusercontent.com/bowen352121-bit/bowen352121-bit/main/assets/scroll-bg.gif" width="100%" alt=""/>
 
 <br/>
 
 <div align="center">
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I+am+hyphae" alt="Hello, I am hyphae" />
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I+am+hyphae" alt="Hello, I am hyphae" />
+
+<br/><br/>
 
 > 🔭 I'm currently serving as **Deputy Director of the Overseas Publicity Department** at G-bits, responsible for overseas brand promotion and market expansion.
 
@@ -39,10 +15,6 @@
 </div>
 
 <br/>
-
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
@@ -128,17 +100,3 @@
 | 🔥 | [bowen_cn](https://github.com/bowen352121-bit/bowen_cn) | [`#bowen_cn`](https://bowen352121-bit.github.io/bowen_cn/) | [![GitHub stars](https://badgen.net/github/stars/bowen352121-bit/bowen_cn)](https://github.com/bowen352121-bit/bowen_cn/stargazers) | JavaScript |
 | 🐍 | [bowen_java-Gluttonous-Snake](https://github.com/bowen352121-bit/bowen_java-Gluttonous-Snake) | - | [![GitHub stars](https://badgen.net/github/stars/bowen352121-bit/bowen_java-Gluttonous-Snake)](https://github.com/bowen352121-bit/bowen_java-Gluttonous-Snake/stargazers) | Python |
 | 👤 | [bowen352121-bit](https://github.com/bowen352121-bit/bowen352121-bit) | [`#profile`](https://github.com/bowen352121-bit) | [![GitHub stars](https://badgen.net/github/stars/bowen352121-bit/bowen352121-bit)](https://github.com/bowen352121-bit/bowen352121-bit/stargazers) | - |
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#f4f7f6">
-
-<marquee behavior="scroll" direction="right" scrollamount="5">
-<strong><font color="#a1a1aa" size="4">NEVER FORGET YOUR KNIGHT DREAM — HYPHAE — BOWEN</font></strong>
-</marquee>
-
-    </td>
-  </tr>
-</table>
