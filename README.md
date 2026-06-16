@@ -5,14 +5,12 @@
 <div align="center">
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%E5%97%8E%EF%BC%8C%E6%88%91%E6%98%AF+bowen352121-bit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I+am+bowen352121-bit" alt="Typing SVG" />
 </h3>
 
-### 一位崭露头角的 JavaScript 开发人员
+> 🔭 I'm currently serving as **Deputy Director of the Overseas Publicity Department** at G-bits, responsible for overseas brand promotion and market expansion.
 
-> 🔭 我目前担任 G-bits 全球传播部副主任，负责海外品牌推广和市场拓展。
-
-> 🌱 我目前正在学习 **空速理论** —— 欢迎向我询问相关的一切。
+> 🌱 I'm currently learning **airspeed theory** — feel free to ask me anything about it.
 
 </div>
 
@@ -52,7 +50,7 @@
 
 <div align="center">
 
-  <b>联系我：</b>
+  <b>Connect with me:</b>
   &nbsp;
   <a href="https://github.com/bowen352121-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -68,14 +66,14 @@
 
 ---
 
-### ⚡ 关于我
+### ⚡ About Me
 
-- 🔭 **目前**：G-bits 全球传播部副主任，负责海外品牌推广和市场拓展
-- 🌱 **学习**：空速理论
-- 👯 **欢迎询问**：空速理论相关的一切
-- ⚡ **有趣的事实**：超音速飞行会产生冲击波，从而影响指示空速 (IAS) 的准确性。机载计算机使用复杂的数学运算来「估算」真实空速 (TAS)
-- 👨‍💻 **所有项目**：[https://bowen352121-bit.github.io/bowen_cn/](https://bowen352121-bit.github.io/bowen_cn/)
-- 📝 **定期发文**：[https://annihilation.work](https://annihilation.work)
+- 🔭 **Currently**: Deputy Director of the Overseas Publicity Department at G-bits, overseeing overseas brand promotion and market expansion
+- 🌱 **Learning**: Airspeed theory
+- 👯 **Ask me about**: Anything related to airspeed theory
+- ⚡ **Fun fact**: Supersonic flight creates shockwaves that affect the accuracy of Indicated Airspeed (IAS). Onboard computers use complex calculations to estimate True Airspeed (TAS)
+- 👨‍💻 **All projects**: [https://bowen352121-bit.github.io/bowen_cn/](https://bowen352121-bit.github.io/bowen_cn/)
+- 📝 **Writing**: [https://annihilation.work](https://annihilation.work)
 
 ### Languages and Tools
 
