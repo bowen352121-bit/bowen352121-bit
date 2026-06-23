@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-> 🔭 I'm currently serving as **Deputy Director of the Overseas Publicity Department** at G-bits, responsible for overseas brand promotion and market expansion.
+> 🔭 I'm currently serving as **Executive Officer, Corporate Communications** at Siemens, responsible for global corporate communications and international market expansion.
 
 > 🌱 I'm currently learning **airspeed theory** — feel free to ask me anything about it.
 
@@ -68,7 +68,7 @@
 
 ### ⚡ About Me
 
-- 🔭 **Currently**: Deputy Director of the Overseas Publicity Department at G-bits, overseeing overseas brand promotion and market expansion
+- 🔭 **Currently**: Executive Officer, Corporate Communications at Siemens, overseeing global corporate communications and international market expansion
 - 🌱 **Learning**: Airspeed theory
 - 👯 **Ask me about**: Anything related to airspeed theory
 - ⚡ **Fun fact**: Supersonic flight creates shockwaves that affect the accuracy of Indicated Airspeed (IAS). Onboard computers use complex calculations to estimate True Airspeed (TAS)
